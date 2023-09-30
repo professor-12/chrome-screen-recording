@@ -5,3 +5,4 @@ const startRecording = () => {
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('startRecordingButton').addEventListener('click', startRecording);
 });
+

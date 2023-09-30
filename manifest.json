@@ -1,5 +1,5 @@
 {
-  "name": "Window Recording",
+  "name": "Help me out",
   "description": "Minimal example for recording any screen/window in manifest V3, allowing redirection on current tab",
   "version": "1.0",
   "manifest_version": 3,

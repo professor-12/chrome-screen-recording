@@ -67,7 +67,7 @@ chrome.runtime.onMessage.addListener((message) => {
             window.close();
           });
 
-          // Stop all tracks of stream
+
           stream.getTracks().forEach(track => track.stop());
         }
 
